@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Ple.xcodeproj">
+      location = "self:iOS-Cupcakes.xcodeproj">
    </FileRef>
 </Workspace>
